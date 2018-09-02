@@ -1,3 +1,0 @@
-This is a DevOps file.
-
-Making first change.
